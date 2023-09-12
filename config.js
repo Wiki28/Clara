@@ -6,27 +6,27 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6285338324402', 'Xyroinee', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
-global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
+global.nomorwa = '16013019274'
+global.packname = 'ig: @saya_wiki'
+global.author = 'Wiki W'
+global.namebot = '​Bot W'
+global.wm = 'ig: @saya_wiki'
+global.stickpack = 'ig: @saya_wiki'
+global.stickauth = 'ig: @saya_wiki'
+global.fotonya = 'https://telegra.ph/file/de9a248b7ac5e34c2a98b.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
+global.sig = 'https://www.instagram.com/saya_wiki'
 global.sgh = 'https://github.com/Xyroinee'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
-global.psaweria = 'https://saweria.co/Zeltoria'
-global.ptrakterr = 'https://trakteer.id/zeltoria'
-global.povo = '0896-1075-0607'
+global.psaweria = 'https://saweria.co/saya_wiki'
+global.ptrakterr = 'https://trakteer.id'
+global.povo = '-'
 // Info Wait
 global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
